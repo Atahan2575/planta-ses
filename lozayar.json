@@ -7,8 +7,7 @@
         "MIN_STAFF_ROLE": "831850586042925086"
     },
     "FILES": {
-        "WELCOME": "ses/hoşgeldin.mp3",
+        "WELCOME": "ses/hoşgeldiniz.mp3",
         "STAFF": "ses/yetkili.mp3"
-    },
-    "TOKEN": "ODMxODUxMjI5NjEyNDc0MzY4.YHbP1A.L0m3kjbCE9UyXjKiHzzxHbR1pE8"
+    }
 } 
