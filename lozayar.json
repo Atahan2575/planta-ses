@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["831850586042925086"],
+        "ACTIVITY_TEXT": "BODRUMLU ILE 31",
+        "GUILD_ID": "831849993698279474",
+        "VOICE_CHANNEL": "831851861572845579",
+        "MIN_STAFF_ROLE": "831850586042925086"
+    },
+    "FILES": {
+        "WELCOME": "ses/hoşgeldin.mp3",
+        "STAFF": "ses/yetkili.mp3"
+    },
+    "TOKEN": "ODMxODUxMjI5NjEyNDc0MzY4.YHbP1A.L0m3kjbCE9UyXjKiHzzxHbR1pE8"
+} 
